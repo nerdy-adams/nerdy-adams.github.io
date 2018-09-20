@@ -105,11 +105,11 @@ author:
   avatar           : "/assets/images/bio-photo.png"
   bio              : "가치있는 행복한 사람"
   location         : "Somewhere"
-  email            :
+  email            : nerdrun.adams@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "nerdrun.adams@gmail.com"
+      url: mailto:"nerdrun.adams@gmail.com"
       # url: mailto:your.name@email.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
