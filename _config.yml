@@ -105,7 +105,7 @@ author:
   avatar           : "/assets/images/bio-photo.png"
   bio              : "가치있는 행복한 사람"
   location         : "Somewhere"
-  email            : nerdrun.adams@gmail.com
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -154,6 +154,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - assets/images
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
