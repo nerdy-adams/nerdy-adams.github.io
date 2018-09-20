@@ -17,10 +17,10 @@ remote_theme           : "mmistakes/minimal-mistakes"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "아담스제이"
+title                    : "아담로그, Developer Youtuber Maketer Lover"
 title_separator          : "-"
-name                     : "ADAMS"
-description              : "An amazing website."
+name                     : "아담스"
+description              : "아담로그는 개발자, 유튜버, 마케터, 사랑꾼의 이야기를 담고자합니다."
 url                      : "https://nerdy-adams.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
