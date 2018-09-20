@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "아담스(Adams)"
-  avatar           : "/_assets/images/bio-photo.png"
+  avatar           : "/assets/images/bio-photo.png"
   bio              : "가치있는 행복한 사람"
   location         : "Somewhere"
   email            :
