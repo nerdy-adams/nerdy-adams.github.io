@@ -101,9 +101,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "ADAMS"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  name             : "아담스(Adams)"
+  avatar           : "/assets/images/bio-photo.jpg"
+  bio              : "가치있는 행복한 사람"
   location         : "Somewhere"
   email            :
   links:
@@ -284,6 +284,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
